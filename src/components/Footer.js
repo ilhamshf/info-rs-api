@@ -16,16 +16,16 @@ const Footer = () => (
     transition="background 100ms linear"
   >
     <HStack>
-      <fa-instagram-square size="20px" />
-      <Link href="https://instagram.com/ilham.shff" isExternal>
-        Made With ♥ by ilhamshf
+      <FaGithub size="20px" />
+      <Link href="https://github.com/ilhamshf" isExternal>
+        GitHub Repo
       </Link>
       <Divider orientation="vertical" h="18px" />
       <Link
-        href="https://rs-bed-covid-api.vercel.app/"
+        href="https://github.com/satyawikananda/rs-bed-covid-indo-api"
         isExternal
       >
-        API Source
+        Sumber API
       </Link>
     </HStack>
   </VStack>
