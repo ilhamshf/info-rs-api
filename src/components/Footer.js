@@ -18,7 +18,7 @@ const Footer = () => (
     <HStack>
       <FaGithub size="20px" />
       <Link href="https://github.com/ilhamshf" isExternal>
-        GitHub Repo
+        Github Ilhamshf
       </Link>
       <Divider orientation="vertical" h="18px" />
       <Link
