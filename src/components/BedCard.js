@@ -27,7 +27,7 @@ const BedCard = ({ detail }) => {
           <Heading as="h4" size="md">
             {title}
           </Heading>
-          <Text>Diupdate pada{time}</Text>
+          <Text>Diupdate oleh rs pada{time}</Text>
         </Stack>
         <AccordionIcon />
       </AccordionButton>
